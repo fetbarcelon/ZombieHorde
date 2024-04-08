@@ -9,7 +9,7 @@ Load the project in Unreal
 
 
 ## Download the build :video_game:
-Please use the following link to download my game (zip game Zombie Horde)[https://drive.google.com/drive/folders/1QOYGpIxAxXuHgcqLmDxJj9Knz1wpfiPP?usp=drive_link]
+Please send me a message.
         
         
 ## Control :video_game: 
