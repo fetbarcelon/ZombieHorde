@@ -8,8 +8,8 @@ About Welcome to the heart-pounding world of Armored Assault, an action-packed s
 Load the project in Unreal
 
 
-## Download the build :video_game:
-Please send me a message.
+## Download the project:
+Contact me: fetbarcelon@gmail.com
         
         
 ## Control :video_game: 
